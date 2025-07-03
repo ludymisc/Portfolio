@@ -1,0 +1,3 @@
+[01/07/2025]
+websitenya udah jadi! tapi baru 50% dan...ya, statis karna gaada backend. hehe
+mungkin nanti kalo udah siap akan gw push ke vercel dan Git
