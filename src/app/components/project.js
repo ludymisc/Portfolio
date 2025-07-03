@@ -8,7 +8,7 @@ export default function Project() {
             <div className="card flex flex-row gap-6 pb-30">
                 <div className="flex flex-col w-full max-w-md rounded-lg ">
 
-                    <Image src="/capture.PNG" alt="dummy" height={128} width={200} className="w-full h-auto object-cover" />
+                    <Image src="/Capture.PNG" alt="dummy" height={128} width={200} className="w-full h-auto object-cover" />
                     <div className="p-4">
                         <h2 className="text-2xl">Travel Agency Landing Page (Template)</h2>
                         <h3>Landing page siap edit dengan UI interaktif untuk setiap device</h3>
